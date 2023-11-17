@@ -9,9 +9,9 @@
 * Javascript
 
 ## Screenshot
-<img width="948" alt="image" src="https://github.com/Ayushi068/Portfolio/assets/90149486/878ac22b-95ca-4126-bb57-733b3e06359f">
-<img width="946" alt="image" src="https://github.com/Ayushi068/Portfolio/assets/90149486/1febd2a1-131b-4590-996a-13fe853d5542">
-<img width="946" alt="image" src="https://github.com/Ayushi068/Portfolio/assets/90149486/822117a5-b42f-4db4-b517-5884080b785c">
-<img width="948" alt="image" src="https://github.com/Ayushi068/Portfolio/assets/90149486/6aa843e9-99ba-4e4f-8904-0a197ad7b9f7">
-<img width="947" alt="image" src="https://github.com/Ayushi068/Portfolio/assets/90149486/02bc076f-cf08-4d2b-a096-af1be87e3e3d">
-<img width="946" alt="image" src="https://github.com/Ayushi068/Portfolio/assets/90149486/d83378c0-0db4-412d-8173-c5f3298b9ad9">
+<img width="946" alt="image" src="https://github.com/Ayushi068/Portfolio/assets/90149486/ed1eed3a-9d20-4258-a731-e4007cd4c56f">
+<img width="948" alt="image" src="https://github.com/Ayushi068/Portfolio/assets/90149486/526a93be-9ca2-49eb-a253-d6f4abf583a7">
+<img width="947" alt="image" src="https://github.com/Ayushi068/Portfolio/assets/90149486/96e3f361-46dc-4cf0-8d21-0ba44282a8a8">
+<img width="947" alt="image" src="https://github.com/Ayushi068/Portfolio/assets/90149486/e14d0bbd-2ae3-4e08-9059-d3fc5111cd90">
+<img width="944" alt="image" src="https://github.com/Ayushi068/Portfolio/assets/90149486/f4cfe8aa-9c26-4abe-98f4-a745928cbc6e">
+<img width="945" alt="image" src="https://github.com/Ayushi068/Portfolio/assets/90149486/d26299ba-5fea-458e-b7ae-830cf3b6affe">
